@@ -51,12 +51,12 @@ I'm **Muhammad Jabbar**, a passionate **Full-Stack Web Engineer** with over **5 
 
 ## ⚙️ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vue,nextjs,js,ts,mongodb,firebase,graphql,bootstrap,tailwind,aws,docker,git,linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vue,nextjs,js,ts,mongodb,firebase,graphql,bootstrap,tailwind,aws,docker,git,linux" height="100"/>
 </p>
 
 ## 🧰 Tooling & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,vercel,netlify,postman,figma,slack" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,vercel,netlify,postman,figma,slack" height="50"/>
 </p>
 
 ---
