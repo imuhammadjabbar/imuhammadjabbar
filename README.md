@@ -71,6 +71,28 @@ I'm **Muhammad Jabbar**, a passionate **Full-Stack Web Engineer** with over **5 
 | **Analytics Hub**     | Live graphs, real-time filters, CSV export       | React · Chart.js · Express     |
 
 ---
+## 🧠 Skill Proficiency Dashboard
+
+### 📈 My Core Skills at a Glance
+
+| Skill              | Level          | Confidence | Last Used   | Usage in Projects |
+|--------------------|----------------|------------|-------------|-------------------|
+| **React.js**       | 🔥 Expert       | 9.5/10     | Very Recent | ⭐⭐⭐⭐⭐             |
+| **Node.js**        | 🔥 Expert       | 9/10       | Very Recent | ⭐⭐⭐⭐⭐             |
+| **MongoDB**        | 🚀 Advanced     | 8.5/10     | Recent      | ⭐⭐⭐⭐              |
+| **Vue.js**         | 💡 Proficient   | 8/10       | Recent      | ⭐⭐⭐⭐              |
+| **Express.js**     | 🔥 Expert       | 9/10       | Very Recent | ⭐⭐⭐⭐⭐             |
+| **Next.js**        | 💡 Proficient   | 8/10       | Recent      | ⭐⭐⭐⭐              |
+| **Firebase**       | ✅ Intermediate | 7.5/10     | Recent      | ⭐⭐⭐               |
+| **GraphQL**        | ✅ Intermediate | 7/10       | Recently    | ⭐⭐⭐               |
+| **Tailwind CSS**   | 🚀 Advanced     | 9/10       | Very Recent | ⭐⭐⭐⭐⭐             |
+| **Socket.io**      | 🚀 Advanced     | 8.5/10     | Very Recent | ⭐⭐⭐⭐              |
+| **Docker**         | 💡 Proficient   | 8/10       | Recent      | ⭐⭐⭐⭐              |
+| **AWS**            | ✅ Intermediate | 7.5/10     | Occasionally| ⭐⭐⭐               |
+
+> 📌 *Confidence level is based on usage frequency, complexity handled, and project impact.*
+
+
 
 ## 📊 GitHub Stats
 <p align="center">
