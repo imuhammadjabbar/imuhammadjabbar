@@ -54,23 +54,6 @@ I'm **Muhammad Jabbar**, a passionate **Full-Stack Web Engineer** with over **5 
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,vue,nextjs,js,ts,mongodb,firebase,graphql,bootstrap,tailwind,aws,docker,git,linux" height="100"/>
 </p>
 
-## 🧰 Tooling & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,vercel,netlify,postman,figma,slack" height="50"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| ⚡ Project            | ✨ Key Features                                  | 🛠️ Tech Stack                   |
-|----------------------|-------------------------------------------------|--------------------------------|
-| **CRM Dashboard**     | Role-based access, analytics, PDF export         | MERN · JWT · Redux             |
-| **Realtime Chat**     | Typing indicator, dark mode, file sharing        | Node.js · React · Socket.io    |
-| **Task Manager**      | Kanban board, deadline alerts, drag & drop       | React · MongoDB · Express      |
-| **Analytics Hub**     | Live graphs, real-time filters, CSV export       | React · Chart.js · Express     |
-
----
 ## 🧠 Skill Proficiency Dashboard
 
 ### 📈 My Core Skills at a Glance
@@ -91,6 +74,25 @@ I'm **Muhammad Jabbar**, a passionate **Full-Stack Web Engineer** with over **5 
 | **AWS**            | ✅ Intermediate | 7.5/10     | Occasionally| ⭐⭐⭐               |
 
 > 📌 *Confidence level is based on usage frequency, complexity handled, and project impact.*
+
+
+## 🧰 Tooling & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,vercel,netlify,postman,figma,slack" height="50"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| ⚡ Project            | ✨ Key Features                                  | 🛠️ Tech Stack                   |
+|----------------------|-------------------------------------------------|--------------------------------|
+| **CRM Dashboard**     | Role-based access, analytics, PDF export         | MERN · JWT · Redux             |
+| **Realtime Chat**     | Typing indicator, dark mode, file sharing        | Node.js · React · Socket.io    |
+| **Task Manager**      | Kanban board, deadline alerts, drag & drop       | React · MongoDB · Express      |
+| **Analytics Hub**     | Live graphs, real-time filters, CSV export       | React · Chart.js · Express     |
+
+---
 
 
 
