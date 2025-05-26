@@ -95,7 +95,7 @@ I'm **Muhammad Jabbar**, a passionate **Full-Stack Web Engineer** with over **5 
 <!-- ============================ CONTACT ============================ -->
 ## 📫 Let’s Connect
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/imuhammadjabbar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:youremail@gmail.com">
