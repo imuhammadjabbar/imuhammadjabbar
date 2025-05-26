@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="center">
-  <strong>🔥 FULL STACK WEB ENGINEER | MERN · NODE.JS · REACT · VUE · MONGODB</strong>
+  <strong>🔥 FULL STACK WEB ENGINEER | MERN · NODE.JS · REACT · VUE · MONGODB . Node | SaaS & API Integration</strong>
 </h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=code" height="1"></p>
@@ -98,10 +98,10 @@ I'm **Muhammad Jabbar**, a passionate **Full-Stack Web Engineer** with over **5 
   <a href="https://www.linkedin.com/in/imuhammadjabbar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="Imuhammadjabbar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://upwork.com/freelancers/~yourprofile" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01e41ffa83a36bd846" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-4CAF50?style=for-the-badge&logo=upwork&logoColor=white">
   </a>
 </p>
